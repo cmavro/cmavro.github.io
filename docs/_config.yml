@@ -29,6 +29,10 @@ plugins:
 twitter_username: 
 github_username:  cmavro
 
+pages_list:       
+  Graph InfoClust: '/Graph-InfoClust-GIC'
+  Other: '/awesome-unsupervised-gnns'
+
 # Build settings
 theme: minima
 plugins:
